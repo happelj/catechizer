@@ -18,12 +18,12 @@ This Python program quizzes users on the Westminster Shorter Catechism. The user
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/happelj/catechism-quiz.git
+   git clone https://github.com/happelj/catechizer.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd catechism-quiz
+   cd catechizer
    ```
 
 3. **Install dependencies**:
