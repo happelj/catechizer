@@ -45,7 +45,7 @@ This Python program quizzes users on the Westminster Shorter Catechism. The user
 ## Example File Structure
 
 ```
-/catechism-quiz
+/catechizer
 │── catechizer.py
 │── catechism.txt
 └── README.md
